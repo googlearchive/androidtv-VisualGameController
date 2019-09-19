@@ -1,24 +1,8 @@
 # VisualGameController
 
-The Visual Game Controller app is designed to run on an Android TV device and displays visual feedback for the buttons of an attached game controller.
+This sample has been deprecated/archived meaning it's read-only and it's no longer actively maintained (more details on archiving can be found [here][1]).
 
-## Dependencies
-* Android SDK v7 appcompat library
+For other related samples, check out the new [github.com/android/tv][2] repo. Thank you!
 
-## Setup Instructions
-* Compile and deploy to your Android TV device.
-* If using gradle, make sure you update build.gradle and settings.gradle to reflect the name you gave your VisualGameController project when you cloned it.
-
-## References and How to report bugs
-* [Developer Documentation](http://developers.google.com/)
-
-## How to make contributions?
-Please read and follow the steps in the CONTRIBUTING.md
-
-## License
-See LICENSE
-
-## Google+
-Google Developers Page on Google+ [https://plus.google.com/+GoogleDevelopers/posts](https://plus.google.com/+GoogleDevelopers/posts)
-
-## Change List
+[1]: https://help.github.com/en/articles/about-archiving-repositories
+[2]: https://github.com/android/tv
